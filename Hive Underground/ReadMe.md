@@ -6,7 +6,7 @@
 ## How to Install
 • Install the [Stage Swapper](https://thunderstore.io/c/lethal-league-blaze/p/AndyLobjois/StageSwapper/) and it's dependencies (BepInEx and LLBML) through [r2modman](https://lethal-league-blaze.thunderstore.io/package/ebkr/r2modman/)
 
-• Put the __**bundle**__ file and the **.xml** file inside **Steam\steamapps\common\LLBlaze\ModdingFolder\StageSwapper** folder
+• Put the __**bundle**__ file (file without format) and the **.xml** file inside **Steam\steamapps\common\LLBlaze\ModdingFolder\StageSwapper** folder
 
 • Thanks to Wallace Bean, we have UI pictures of the stage for the menus
 
